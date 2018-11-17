@@ -97,7 +97,13 @@
             <br />
             <br />
             <asp:Button ID="Button1" runat="server" Text="Sign up" onclick="Button1_Click" />
-
+            <br />
+            <asp:Label ID="Label1" runat="server" Text="Themes"></asp:Label>
+            <asp:RadioButtonList ID="RadioButtonList1" runat="server" OnSelectedIndexChanged="RadioButtonList1_SelectedIndexChanged" AutoPostBack="true">
+                <asp:ListItem Text="Theme 1"></asp:ListItem>
+                 <asp:ListItem Text="Theme 2"></asp:ListItem>
+                 <asp:ListItem Text="Theme 3"></asp:ListItem>
+            </asp:RadioButtonList>
         </div>
     </form>
 </body>
