@@ -1,0 +1,9 @@
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\bin\SocialMediaSite.dll.config
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\bin\SocialMediaSite.dll
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\bin\SocialMediaSite.pdb
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\obj\Debug\SocialMediaSite.csprojResolveAssemblyReference.cache
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\obj\Debug\SocialMediaSite.csproj.CoreCompileInputs.cache
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\obj\Debug\SocialMediaSite.dll
+C:\Users\Veronica\source\repos\SocialMediaSite\SocialMediaSite\obj\Debug\SocialMediaSite.pdb
